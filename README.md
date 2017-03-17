@@ -15,7 +15,7 @@ _This webpage hosts an image of me, a list of my hobbies, some background inform
 
 ## Known Bugs
 
-* _Unable to center nav-pills_
+* _None so far_
 
 ## Support and contact details
 

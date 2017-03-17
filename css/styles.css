@@ -1,3 +1,4 @@
+
 .jumbotron {
   background: url('../img/plane photo.jpg') center center;
   text-align: center;
@@ -37,6 +38,10 @@ ul {
   font-family: courier;
   text-align: center;
   list-style-type: none;
+}
+
+ol {
+  font-family: courier;
 }
 div > a:hover {
   text-decoration: none;
