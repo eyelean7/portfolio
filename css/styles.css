@@ -9,7 +9,6 @@
   display: inline;
   margin: 100px;
   width: 25%
-
 }
 
 .nav-pills li {
@@ -58,9 +57,10 @@ a h3 {
   color: white;
 }
 
-a h3:hover {
+span.text-only:hover {
   background-color: #6fafef;
   border-radius: 2px;
+  padding: 5px;
 }
 
 img {
