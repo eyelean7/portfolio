@@ -15,7 +15,7 @@ _This website hosts an image of me, a list of my hobbies, some background inform
 
 ## Support and contact details
 
-_Follow me on [Github] (https://github.com/eyelean7)_
+_Follow me on [Github](https://github.com/eyelean7)_
 
 ## Technologies Used
 
