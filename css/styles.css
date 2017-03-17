@@ -11,3 +11,23 @@ img {
 .row {
   margin: 0 10% 0 10%;
 }
+p {
+  font-family: courier;
+  text-align: justify;
+}
+h2 {
+  font-family: Trebuchet MS;
+  text-align: center;
+}
+h3 {
+  font-family: Trebuchet MS;
+  text-align: center;
+}
+ul {
+  font-family: courier;
+  text-align: center;
+  list-style-type: none;
+}
+footer p {
+  text-align: center;
+}
