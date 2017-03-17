@@ -4,28 +4,37 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/styles.css">
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Ilene Gorski</title>
   </head>
   <body>
-    <div class="container">
+    <div class="container-fluid">
       <!-- my name -->
-      <h1>Ilene Gorski</h1>
+      <h1 class="jumbotron">Ilene Gorski</h1>
   <!-- an image of me, or something that represents me -->
       <img src="img/plane photo.png" alt="Ilene is ready for takeoff!">
   <!-- A list of projects you have created with active links to their GitHub pages sites or GitHub repositories, including descriptions and info on what programming language used for each. -->
       <h2>Here are some things I've been working on...</h2>
-      <a href="https://github.com/eyelean7/animalshelter/blob/master/shelter.html">
-        <h3>Animal Shelter</h3>
-      </a>
-      <p>This project uses HTML and CSS to create a well-formatted website for animals who need a home.</p>
-      <a href="https://github.com/eyelean7/octoblog/tree/master/Desktop/bloggingwebsite">
-        <h3>Octopus</h3>
-      </a>
-      <p>We think the octopus is cool. Our git init maybe happened in a weird place, which is why I linked to a section of the repository rather than the entire thing. HTML for content and CSS for styling</p>
-      <a href="https://github.com/eyelean7/wiki">
-        <h3>Wikipedia</h3>
-      </a>
-      <p>Our wikipedia imitation page <em>almost</em> looks like the real deal! Okay... maybe not. But check out those sweet nav-bars! This site was created with bootstrap, and of course HTML and CSS.</p>
+      <div class="row">
+        <div class="col-md-4">
+          <a href="https://github.com/eyelean7/animalshelter/blob/master/shelter.html">
+            <h3>Animal Shelter</h3>
+          </a>
+          <p>This project uses HTML and CSS to create a well-formatted website for animals who need a home.</p>
+        </div>
+        <div class="col-md-4">
+          <a href="https://github.com/eyelean7/octoblog/tree/master/Desktop/bloggingwebsite">
+            <h3>Octopus</h3>
+          </a>
+          <p>We think the octopus is cool. Our git init maybe happened in a weird place, which is why I linked to a section of the repository rather than the entire thing. HTML for content and CSS for styling</p>
+        </div>
+        <div class="col-md-4">
+          <a href="https://github.com/eyelean7/wiki">
+            <h3>Wikipedia</h3>
+          </a>
+          <p>Our wikipedia imitation page <em>almost</em> looks like the real deal! Okay... maybe not. But check out those sweet nav-bars! This site was created with bootstrap, and of course HTML and CSS.</p>
+        </div>
+      </div>
 
   <!-- An “About Me” section -->
       <h2>About Me</h2>
