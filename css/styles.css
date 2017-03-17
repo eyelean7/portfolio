@@ -1,7 +1,5 @@
-body {
-  background-image: url("img/plane photo.png")
-}
 .jumbotron {
+  background: url('../img/plane photo.jpg') center center;
   text-align: center;
   margin: 0 15% 0 15%;
   color: #428bca;
