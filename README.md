@@ -6,16 +6,12 @@
 
 ## Description
 
-_This webpage hosts an image of me, a list of my hobbies, some background information, and links to several projects._
+_This website hosts an image of me, a list of my hobbies, some background information, and links to several projects._
 
 ## Setup/Installation Requirements
 
 * _No setup required_
-* _Click [here](http://eyelean7.github.io/portfolio) to view the webpage_
-
-## Known Bugs
-
-* _None so far_
+* _Click [here](http://eyelean7.github.io/portfolio) to view the website_
 
 ## Support and contact details
 

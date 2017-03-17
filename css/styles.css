@@ -34,6 +34,13 @@ h3 {
   text-align: center;
 }
 
+.left {
+  margin: 2px;
+  padding: 4px;
+  width: 20%;
+  float: left;
+}
+
 ul {
   font-family: courier;
   text-align: center;
