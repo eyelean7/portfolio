@@ -1,12 +1,13 @@
 .jumbotron {
   text-align: center;
   margin: 0 15% 0 15%;
-
+  color: #428bca;
+  text-shadow: 2px 0px white;
 }
 img {
   width: 70%;
-  margin-left: 15%;
-  margin-right: 15%;
+  margin: 2px 15% 0 15%;
+  border-radius: 5px;
 }
 .row {
   margin: 0 10% 0 10%;
@@ -27,6 +28,11 @@ ul {
   font-family: courier;
   text-align: center;
   list-style-type: none;
+}
+ul a:hover {
+  text-decoration: none;
+  background-color: #5cb85c;
+  border-radius: 2px;
 }
 footer p {
   text-align: center;
